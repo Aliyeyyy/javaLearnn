@@ -2,7 +2,65 @@ package j02_DataTypes_WrapperClass;
 
 public class C02_DataTypes {
     public static void main(String[] args) {
-      /*
+
+
+       int dTarihi = 1999;
+       int buYıl=2022;
+       int yasınız=buYıl-dTarihi;
+       System.out.println(yasınız);
+
+float f1=12.45f;
+float f2=23.56F;
+double boy=1.85;
+        System.out.println(f1*f2);
+
+        // Task -> iki farklı byte tanımlayıp toplam farkını print ediniz
+        byte a=23, b=44;
+        System.out.println(a+b);//67
+        System.out.println(a-b);//-21
+
+        //Task iki farklı tam sayı türünde sayı tanımlayıp toplam farkını print ediniz
+        int c=1453;
+        byte d=34;
+        System.out.println(c+d);
+
+        // Task tamsayı ve ondalıklı sayı tanımlayıp toplam farkını bulunuz
+
+        int n=33;
+        double m=14.53;
+        System.out.println(n+m); //47.53--> 33.0+14.53
+
+        //Task tamsayı ve char data type iki variable tanımlayıp print ediniz
+        int sayi=63;
+        char para='$';
+        System.out.println(sayi+para);
+
+        //Task ad ve soyadınızı ve yaşınızı yazdırınız
+        String ad="Büşra";
+        String soyad="Talih";
+        int yasın=28;
+
+        System.out.println(ad+" "+soyad+" "+yasın);
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*
 		 Java'da  2 farkli data type vardir.
 		 1)Primitive Data Type (8 tane)
 
@@ -39,49 +97,24 @@ public class C02_DataTypes {
 		 2)Non-Primitive Data Type
 		 	String: Cift tirnak arasina yazilan sifir veya daha fazla character'lerden olusan variable.
 		 */
-        String name = "özgür";
-        String yas = "13";
-        int age=34;
-        int yil=22;
-        boolean emekliMi= true;
-        boolean ıtci= false;
-        char ch  = '$';
-        char hrf = 'A';
-        int dtarihi = 1999;
-        int buyil = 2022;
-        int yasiniz = buyil-dtarihi ;
 
-        System.out.println(yasiniz);
-        float f1=12.45f;
-        float f2=23.56F;
-        double boy=1.85;
-        System.out.println(f1*f2);// 12.45*23.56=293.322
-        //Task iki farklı byte tanımlayıp toplam farkını print ediniz
+    String name= "özgür";
+    String yas="13";
+    int age=34;
+    int yil=22;
+    boolean emekliMi=true;
+    boolean ıtci=false;
+    char ch = '$';
 
-        byte x=45;
-        byte y=35;
-        System.out.println(x+y);
-        System.out.println(x-y);
-        byte a=76;
-        int b=99;
-        System.out.println(a+b);
+    // TASK -> 1999 yılında doğan bir kişinin yaşını yazdırınız
 
 
-        double d=1.60;
-        int s=170;
-        System.out.println(a+s);
 
-        int v=420;
-        char para='$'; // $değeri36
-        System.out.println(v+para);
 
-        String ad="aliye";
-        String soyad="yörüdü";
-        String yasım="28";
-        System.out.println(ad+" "+soyad+" "+yasım);
+
 
 
 
 
     }
-}
+

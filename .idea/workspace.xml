@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q01_Modulus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q02_Modulus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q03_IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q04_IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j01_Veriables/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C01_VariableCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C02_DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C03_Concatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C04_WrapperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_01_create_int2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_02_create_int1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_03_create_int3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_04_create_int4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_05_create_boolean1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_06_create_boolean2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_07_create_double1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_08_create_double2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_09_create_double3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_10_create_double4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_11_create_float1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_12_create_float2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_13_create_float3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_14_create_short1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_15_create_short2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_16_create_short3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_17_create_char1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_18_create_char2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_19_create_char3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_20_create_byte1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_21_create_byte2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j03_ScannerClass_TypeCasting/C01_ScannerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStatement_TernaryOperator/C01_ifStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStatement_TernaryOperator/C02_ifElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/Q01_Modulus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/Q02_Modulus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/Q03_IncrementDecrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/Q04_IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j01_Veriables/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C01_VariableCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C02_DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C03_Concatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C04_WrapperClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j03_ScannerClass_TypeCasting/C01_ScannerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C01_ifStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C02_ifElseStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C03_TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C04_TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C05_TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C06_NestedTernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C07_NestedTernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C08_NestedTernaryOperator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FghmVKK4VdC0SMMUR610lAFutk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="" />
+      <created>1664919793785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664919793785</updated>
+    </task>
+    <servers />
+  </component>
+</project>
