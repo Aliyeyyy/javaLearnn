@@ -1,4 +1,4 @@
-package j06_Comparison_Karüçlaütçrma_Operators;
+package j06_Comparison_Karşılaştırma_Operators;
 
 public class C01_Comparison {
     public static void main(String[] args) {

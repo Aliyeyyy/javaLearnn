@@ -1,4 +1,4 @@
-package j07_Logical_Mantçksal_Operators;
+package j07_Logical_Mantıksal_Operator;
 
 public class C01_MantıksalOperator {
     public static void main(String[] args) {

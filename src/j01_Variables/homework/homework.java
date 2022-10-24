@@ -20,9 +20,9 @@ public class homework {
 
 
 
-        System.out.println("\nBüşra Talih");
-        System.out.println("1.70");
+        System.out.println("\nAliye Yörüdü");
+        System.out.println("1.60");
         System.out.println("48");
-        System.out.println("yüzmek, darbuka çalmak, bisiklete binmek, kitap okumak");
+        System.out.println("yüzmek, resim yapmak, bisiklete binmek, alışveriş yapmak" );
     }
 }

@@ -1,91 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaLearn.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q01_Modulus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q02_Modulus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q03_IncrementDecrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day02/Q04_IfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j01_Veriables/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C01_VariableCreate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C02_DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C03_Concatenation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C04_WrapperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_01_create_int2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_02_create_int1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_03_create_int3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_04_create_int4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_05_create_boolean1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_06_create_boolean2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_07_create_double1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_08_create_double2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_09_create_double3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_10_create_double4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_11_create_float1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_12_create_float2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_13_create_float3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_14_create_short1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_15_create_short2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_16_create_short3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_17_create_char1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_18_create_char2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_19_create_char3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_20_create_byte1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/tasks/_21_create_byte2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j03_ScannerClass_TypeCasting/C01_ScannerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStatement_TernaryOperator/C01_ifStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStatement_TernaryOperator/C02_ifElseStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" />
+    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="push">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j01_Variables/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j01_Variables/homework/homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C01_VariableCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C02_DataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C03_Concatenation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j02_DataTypes_WrapperClass/C04_WrapperClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j03_ScannerClass_TypeCasting/C01_ScannerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j03_ScannerClass_TypeCasting/C02_TypeCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j04_AritmeticOperators/C01_AritmeticOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j04_AritmeticOperators/C02_IncrementDecrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j04_AritmeticOperators/C03_RakamToplamı.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j04_AritmeticOperators/C04_MathMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j05_Assaignment_Atama_Operators/C01_AtamaOperatoru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j06_Comparison_Karşılaştırma_Operators/C01_Comparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j07_Logical_Mantıksal_Operator/C01_MantıksalOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C01_ifStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C02_ifElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C03_TernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C04TernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C05_TernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C06_NestedTernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C07_NestedTernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/C08_NestedTernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/Ex_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_01_if_statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_02_if_statement2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_03_if_statement3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_04_if_else_if_statement4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_05_if_else_if_statement5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_06_if_else_if_statement6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_07_if_else_if_statement7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_08_if_else_if_statement8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_10_if_else_if_statement_with_logic_operators2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_16_if_else_statement_with_logic_operators5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_17_if_else_if_statement_find_max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_18_if_else_statement_find_min.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j08_ifStament_TernaryOperator/tasks/_20_ticket_price.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j09_SwitchStatement/C01_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j09_SwitchStatement/C02_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j09_SwitchStatement/C03_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j09_SwitchStatement/C04_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j09_SwitchStatement/C05_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j09_SwitchStatement/C06_SwitchClase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C01_Concatanation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C02_Lenght.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C03CharAt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C04_Contains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C05_Start_EndWith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C06_SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C07_IndexOf_LastIndexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C08_Equals_equalsIgnoreCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C09_Replace_ReplaceAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C_10_isEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/C_11_ValueOf_Parse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j10_StringManipulations/Task08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/C01_MethodCreation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/C02_MethodCreation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/C03_MethodOverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/C04_MethodCreation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/C04_MethodDepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/C05_RecursiveMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task04AtmMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j11_MethodCreation/Task15UcusProject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/C01_ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/C02_ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/C03_NestedForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task02_Polindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task03_Faktoriyel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task05_Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task06_Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task07_Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task09_Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task10_Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/task08_Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/Tasks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/C01_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/C02_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/C03_NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task02_Polindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task03_Faktoriyel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task05_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task06_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task07_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task09_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task10_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task11_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/Task13_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/L01_ForLoop/Task01/task08_Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j12_Lopps/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C01_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C02_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C03_AsalKontrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C04_PinControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C05Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C05_0CA_type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j13_Break_Continue/C06Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_AracRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_Ogrc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_OgrcRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_Ogrtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_OgrtmRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/MyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/C01_Ogrtmn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/C01_OgrtmnRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/C02_StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C01_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C02_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C03_PassByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Ex05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Ex06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/Q01_Modulus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/Q02_Modulus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/Q03_IncrementDecrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/Q04_IfStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j01_Veriables/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C01_VariableCreate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C02_DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C03_Concatenation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j02_DataTypes_WrapperClass/C04_WrapperClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j03_ScannerClass_TypeCasting/C01_ScannerClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C01_ifStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C02_ifElseStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C03_TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C04_TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C05_TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C06_NestedTernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C07_NestedTernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j08_ifStatement_TernaryOperator/C08_NestedTernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j01_Variables/homework/homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j01_Variables/homework/homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j04_AritmeticOperators/C03_RakamToplamç.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j04_AritmeticOperators/C03_RakamToplamı.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j05_Assaignment_Atama_Operators/C01_AtamaOperatorÅ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j05_Assaignment_Atama_Operators/C01_AtamaOperatoru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j06_Comparison_Karüçlaütçrma_Operators/C01_Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j06_Comparison_Karşılaştırma_Operators/C01_Comparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j07_Logical_Mantçksal_Operators/C01_MantçksalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j07_Logical_Mantıksal_Operator/C01_MantıksalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStament_TernaryOperator/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j08_ifStament_TernaryOperator/Ex_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j08_ifStament_TernaryOperator/Ex_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j08_ifStament_TernaryOperator/Ex_08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8e4235b6-d6cd-4234-8db3-f5d488fe74bc" />
+        <option name="url" value="https://github.com/Aliyeyyy/javaLearn2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FghmVKK4VdC0SMMUR610lAFutk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="j13_Break_Continue" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/j13_Break_Continue" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C04_TeacherRunner">
+    <configuration name="C04_TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C04_TeacherRunner" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j18_Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j16_ArrayList.C05_Size" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j16_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_Ogrtm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C07_Ogrtm" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j18_Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j18_Constructor.MyConstructor" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j18_Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10_Nested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j12_Lopps.L01_ForLoop.Task01.Task10_Nested" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j12_Lopps.L01_ForLoop.Task01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C04_TeacherRunner" />
+        <item itemvalue="Application.MyConstructor" />
+        <item itemvalue="Application.C07_Ogrtm" />
+        <item itemvalue="Application.C05_Size" />
+        <item itemvalue="Application.Task10_Nested" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,5 +278,20 @@
       <updated>1664919793785</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/j18_Constructor/C06_Ogrc.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

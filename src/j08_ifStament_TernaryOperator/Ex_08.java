@@ -23,13 +23,10 @@ public class Ex_08 {
         if (sayi > 0) {
             if (sayi > 10) {
                 System.out.println("Buyuksun");
-            } else {
-                System.out.println("Normalsin");
-            }
+            } else System.out.println("Normalsin");
         } else {
-            if (sayi > -10) {
-                System.out.println("Negatifsin");
-            } else {
+            if (sayi > -10) System.out.println("Negatifsin");
+            else {
                 System.out.println("Cok negatifsin");
             }
         }

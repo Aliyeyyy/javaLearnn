@@ -1,6 +1,6 @@
 package j05_Assaignment_Atama_Operators;
 
-public class C01_AtamaOperatorü {
+public class C01_AtamaOperatoru {
     public static void main(String[] args) {
 
         //    =         x = 8      x = 8

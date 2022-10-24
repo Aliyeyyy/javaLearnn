@@ -30,7 +30,9 @@ public class Ex_05 {
         } else if (secim == 4) {
             System.out.println("bolme sonucu : " + sayi1 + "/" + sayi2 + "=" + (sayi1 / sayi2));
 
-        } else System.out.println("agam ne istiyon adam akıllı bişey gir işlemini yapalım");
+        } else {
+            System.out.println("agam ne istiyon adam akıllı bişey gir işlemini yapalım");
+        }
 
 
 
