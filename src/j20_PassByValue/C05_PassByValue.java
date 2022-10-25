@@ -8,5 +8,7 @@ eger bir method2Da yapılan değişiklik kalıcı olsun istenirse
 1.değişklik  yapılan variable'lar static olarak tanımlanır.
  */
 
+        
+
     }
 }
