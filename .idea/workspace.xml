@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C08_Period.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C09_OCA01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C10_OCA02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C11_OCA03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C12_OCA04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C13_OCA05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666808989154</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="push">
+      <created>1668016326457</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668016326457</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
