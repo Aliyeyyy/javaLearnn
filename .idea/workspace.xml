@@ -1,122 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task11_Nested.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j12_Lopps/L01_ForLoop/Task01/Task13_Nested.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C01_Break.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C02_Continue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C03_AsalKontrol.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C04_PinControl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C05Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C05_0CA_type.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Continue/C06Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j14_Scope/C01_InstanceVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j14_Scope/C02_StaticVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j14_Scope/C03_Scope.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j14_Scope/C04_LocalVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C01_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C02_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C03_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C04_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C05_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C06_MultiDArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C07_MdArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C01_ArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C02_nCopies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C03_IndexOf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C04_Get.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C05_Size.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C06_set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C07_SubList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C08_isEmpty_Clear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C09_Equals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C10_Sort_Reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C11_Contains.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C12_Remove.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C13_ReplaceAll_Full.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C14_ListConvertArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C15_ArrayConvertList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Task5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Task8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C01_ForEachLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C02_ForEachLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C03_ForEachLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C01_Constructur.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C02_Arac.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_StudentRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_TeacherRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_Arac.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_AracRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_Ogrc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_OgrcRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_Ogrtm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_OgrtmRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/MyConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j14_Scope/C01_InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j14_Scope/C02_StaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j14_Scope/C03_Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j14_Scope/C04_LocalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C03_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C05_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C06_MultiDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C07_MdArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C02_nCopies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C03_IndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C04_Get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C05_Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C06_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C07_SubList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C08_isEmpty_Clear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C09_Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C10_Sort_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C11_Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C12_Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C13_ReplaceAll_Full.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C14_ListConvertArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C15_ArrayConvertList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C01_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C02_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C03_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C01_Constructur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C02_Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_StudentRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_TeacherRunner.java" afterDir="false" />
+    <list default="true" id="a3b24e37-79a0-4507-9bc4-d16de4ef0239" name="Changes" comment="push">
+      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C08_Period.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C09_OCA01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C10_OCA02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C11_OCA03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C12_OCA04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DateTime/C13_OCA05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +57,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C04_TeacherRunner">
+  <component name="RunManager" selected="Application.C02_LocalTime">
+    <configuration name="C02_LocalTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j22_DateTime.C02_LocalTime" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j22_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C04_TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j18_Constructor.C04_TeacherRunner" />
       <module name="javaLearn" />
@@ -218,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10_Nested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j12_Lopps.L01_ForLoop.Task01.Task10_Nested" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j12_Lopps.L01_ForLoop.Task01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_LocalTime" />
         <item itemvalue="Application.C04_TeacherRunner" />
         <item itemvalue="Application.MyConstructor" />
         <item itemvalue="Application.C07_Ogrtm" />
         <item itemvalue="Application.C05_Size" />
-        <item itemvalue="Application.Task10_Nested" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +149,70 @@
       <option name="project" value="LOCAL" />
       <updated>1666641330992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push">
+      <created>1666641542929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666641542929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push">
+      <created>1666642349486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666642349486</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push">
+      <created>1666642474022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666642474022</updated>
+    </task>
+    <task id="LOCAL-00005" summary="push">
+      <created>1666727691431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666727691431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="push">
+      <created>1666730405503</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666730405503</updated>
+    </task>
+    <task id="LOCAL-00007" summary="push">
+      <created>1666730414909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666730414909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="push">
+      <created>1666806911072</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666806911072</updated>
+    </task>
+    <task id="LOCAL-00009" summary="push">
+      <created>1666807907401</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666807907401</updated>
+    </task>
+    <task id="LOCAL-00010" summary="push">
+      <created>1666808989154</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666808989154</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
